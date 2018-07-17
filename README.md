@@ -1,31 +1,36 @@
 
-<p align ="center"> <img src="https://sv1.uphinhnhanh.com/images/2018/07/17/hp.png"> </p>
-<p align ="center"> <b>HELLO WORLD</b></p>  
 
-FIRST UP
+<p align ="center"> <b>VERMOUTH</b></p>  
+
+OpenSAF   
 =====  
+Setup
+-----  
 ```
-That's my testing code on Markdown Github.  
+1. Read readme.lxc_osaf and do as instruction  
+2. Go to opensaf_code folder, open terminal, run command "./configure && make && make install"
+3. Back to OpenSAF_VERMOUTH folder, open terminal and run command "./vermouth configPLs" 
+
 ```
-Markdown Tutorial  
+Features  
 -----  
 
 
-- [x] Headers  
+- [x] Client & Server AMF  
 
-- [x] Center Align  
+- [x] Sign Up, Sign In & Sign Out  
 
-- [x] Image & Link  
-:link: [My github](https://github.com/hoanghieukmt14)  
-- [x] Quotes  
+- [x] Chat Private & Chat Room  
 
->No Face, No Fake
+ Future  
+-----  
 
-- [x] Emoji  
+- [ ] Integrate IMM  
 
-	:+1: :sunglasses:
-
+	
 
 
 
 
+
+ 
