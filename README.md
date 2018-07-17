@@ -3,13 +3,23 @@
 <p align ="center"> <b>HELLO WORLD</b></p>  
 
 FIRST UP
-=====
+=====  
+Markdown Tutorial  
+-----  
 
 
-- [x] Markdown Tutorial  
+- [x] Headers  
 
-**Quotes:** 
->No Face, No Fake^^
+- [x] Center Align  
+
+- [x] Image & Link  
+
+		  <a href="github.com/hoanghieukmt14"><img src="https://cdn4.iconfinder.com/data/icons/web-links/512/42-512.png" width="50" title="My github"  > </a>
+- [x] Quotes  
+
+>No Face, No Fake
+
+
 
 
 
