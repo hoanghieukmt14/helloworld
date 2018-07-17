@@ -4,6 +4,7 @@
 
 FIRST UP
 =====  
+>That's my testing code on Markdown Github.  
 Markdown Tutorial  
 -----  
 
@@ -14,7 +15,7 @@ Markdown Tutorial
 
 - [x] Image & Link  
 
-		  <a href="github.com/hoanghieukmt14"><img src="https://cdn4.iconfinder.com/data/icons/web-links/512/42-512.png" width="50" title="My github"  > </a>
+		 <p> <a href="github.com/hoanghieukmt14"><img src="https://cdn4.iconfinder.com/data/icons/web-links/512/42-512.png" width="50" title="My github"  > </a></p>
 - [x] Quotes  
 
 >No Face, No Fake
