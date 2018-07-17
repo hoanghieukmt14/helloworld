@@ -14,7 +14,7 @@ Markdown Tutorial
 - [x] Center Align  
 
 - [x] Image & Link  
-:link: [My github](github.com/hoanghieukmt14)  
+:link: [My github](https://github.com/hoanghieukmt14)  
 - [x] Quotes  
 
 >No Face, No Fake
