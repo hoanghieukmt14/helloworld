@@ -14,8 +14,7 @@ Markdown Tutorial
 - [x] Center Align  
 
 - [x] Image & Link  
-
-		 <p align="left"> <a href="github.com/hoanghieukmt14"><img src="https://cdn4.iconfinder.com/data/icons/web-links/512/42-512.png" width="50" title="My github"> </a></p>
+:link: [My github](github.com/hoanghieukmt14)  
 - [x] Quotes  
 
 >No Face, No Fake
